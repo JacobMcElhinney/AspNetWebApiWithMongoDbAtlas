@@ -5,7 +5,6 @@
 
 # Custom Files
 .env
-DeveloperNotes.md
 
 # User-specific files
 *.rsuser
