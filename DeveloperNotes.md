@@ -51,7 +51,7 @@ info: Microsoft.Hosting.Lifetime[14]
       Now listening on: http://localhost:5090
 ```
 
-Don't mind any redirection warnings for now. 
+Don't mind any redirection warnings for now... 
 
 Use a real movie ObjectId (**MongoDB Atlas** > **Database** > **`<MyCluster>`** > **Browse Collections** > **movies**) as the element supplied to the items Arrays *OR* try posting *fake data*
 
