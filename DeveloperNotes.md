@@ -1,16 +1,8 @@
 ---
 title: Developer Notes
 description: Brief notes on the development process and the steps involved in completing the tutorial
-slug: [text](https://www.mongodb.com/developer/languages/csharp/create-restful-api-dotnet-core-mongodb/), [video](https://www.youtube.com/watch?v=jJK9alBkzU0&list=PLQBK8mAp3rE9IZilL8sZqylWEs4GNWgH-&index=16)
 ---
 
-
-
----
-title: Developer Notes
-description: Brief notes on the development process and the steps involved in completing the tutorial.
-tutorial: [text](https://www.mongodb.com/developer/languages/csharp/create-restful-api-dotnet-core-mongodb/), [video](https://www.youtube.com/watch?v=jJK9alBkzU0&list=PLQBK8mAp3rE9IZilL8sZqylWEs4GNWgH-&index=16)
----
 
 # Exercise 2 - Developer Notes
 
